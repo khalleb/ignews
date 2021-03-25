@@ -50,10 +50,3 @@ de assinaturas ou dados dos usuários, estão salvos no banco de dados FaunaDB.
 Essa é uma aplicação Serverless, ou seja, todo o processo que dependeria de um backend foi integrado dentro do front e seguindo o padrão da JAMStack.
 <br>
 As postagens são feitas pelo painel do Prismic CMS e integradas diretamente pelo front.
-
-<p align="center"> 
- <img  src="https://i.imgur.com/gugOW6E.png" alt="dt money dashboard">
- <img  src="https://i.imgur.com/9oX461T.png" alt="dt money dashboard">
- <img  src="https://i.imgur.com/92Qgw8i.png" alt="dt money dashboard">
- <img  src="https://i.imgur.com/ocH3uE0.png" alt="dt money dashboard">
-</p>
