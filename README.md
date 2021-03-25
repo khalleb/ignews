@@ -31,8 +31,9 @@
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requerimentos">Requerimentos</a> &#xa0; | &#xa0;
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
   <a href="https://github.com/carlosemartins97" target="_blank">Autor</a>
 </p>
@@ -60,6 +61,12 @@ As seguintes tecnologias foram utilizadas no projeto:
 - [Prismic CMS](https://prismic.io/)
 - [Stripe](https://stripe.com/)
 - [FaunaDB](https://fauna.com/)
+
+## :white_check_mark: Requerimentos ##
+
+- [Node](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com/lang/en/)
+
 
 
 
