@@ -32,8 +32,8 @@
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requerimentos">Requerimentos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
-  <a href="#app-app">APP</a> &#xa0;
+  <a href="#checkered_flag-começando">Começando</a> &#xa0; &#xa0; | &#xa0;
+  <a href="#images_app-app">APP</a> &#xa0;
 </p>
 
 <br>
@@ -83,7 +83,7 @@ $ yarn dev
 
 # The server will initialize in the <http://localhost:3000>
 ```
-## :app: APP ##
+## :images_app: APP ##
 
 
 
