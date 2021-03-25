@@ -56,11 +56,12 @@ As postagens são feitas pelo painel do Prismic CMS e integradas diretamente pel
 
 As seguintes tecnologias foram utilizadas no projeto:
 
-- [React](https://pt-br.reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Styled-Components](https://styled-components.com/)
 - [Next.js](https://nextjs.org/)
 - [Prismic CMS](https://prismic.io/)
 - [Stripe](https://stripe.com/)
 - [FaunaDB](https://fauna.com/)
+
+
+
+
 
