@@ -30,8 +30,8 @@
 
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requerimentos">Requerimentos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
   <a href="https://github.com/carlosemartins97" target="_blank">Autor</a>
@@ -50,3 +50,17 @@ de assinaturas ou dados dos usuários, estão salvos no banco de dados FaunaDB.
 Essa é uma aplicação Serverless, ou seja, todo o processo que dependeria de um backend foi integrado dentro do front e seguindo o padrão da JAMStack.
 <br>
 As postagens são feitas pelo painel do Prismic CMS e integradas diretamente pelo front.
+
+
+## :rocket: Tecnologias ##
+
+As seguintes tecnologias foram utilizadas no projeto:
+
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled-Components](https://styled-components.com/)
+- [Next.js](https://nextjs.org/)
+- [Prismic CMS](https://prismic.io/)
+- [Stripe](https://stripe.com/)
+- [FaunaDB](https://fauna.com/)
+
