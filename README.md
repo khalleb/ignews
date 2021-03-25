@@ -85,8 +85,9 @@ $ yarn dev
 ```
 ## :images_app: Imagens ##
 
-
-
+<h1 align="center">
+    <img alt = "Web app" src = "./.github/hero.png" width = "500px" />
+</h1>
 
 
 
