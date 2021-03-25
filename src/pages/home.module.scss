@@ -11,6 +11,7 @@
 
 .hero {
   max-width: 600px;
+
   > span {
     font-size: 1.5rem;
     font-weight: bold;
@@ -23,7 +24,7 @@
     margin-top: 2.5rem;
 
     span {
-      color: var(--cyan-500)
+      color: var(--cyan-500);
     }
   }
 
@@ -37,6 +38,7 @@
       font-weight: bold;
     }
   }
+
   button {
     margin-top: 2.5rem;
   }
