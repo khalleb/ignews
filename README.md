@@ -1,7 +1,8 @@
-<h4 align="center">
-    <img alt="" src=".github/logo.svg" />
-    <br/>
-</h4>
+<h1 align="center">
+
+<img src="https://raw.githubusercontent.com/italoh623/ignews/main/public/images/avatar.svg" alt="rocketshoes" width="100px"/>ignews
+
+</h1>
 
 <p align="center">
   Seu portal de noticias 📰🚀
