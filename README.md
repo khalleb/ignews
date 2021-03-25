@@ -32,10 +32,7 @@
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requerimentos">Requerimentos</a> &#xa0; | &#xa0;
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
-  <a href="https://github.com/carlosemartins97" target="_blank">Autor</a>
 </p>
 
 <br>
@@ -66,6 +63,25 @@ As seguintes tecnologias foram utilizadas no projeto:
 
 - [Node](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/lang/en/)
+- 
+
+## :checkered_flag: Começando ##
+
+```bash
+# Clone this project
+$ git clone https://github.com/khalleb/ignews
+
+# Access
+$ cd ignews
+
+# Install dependencies
+$ yarn install
+
+# Run the project
+$ yarn dev
+
+# The server will initialize in the <http://localhost:3000>
+```
 
 
 
